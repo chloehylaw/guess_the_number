@@ -10,10 +10,13 @@ The player wins the game if they can guess the number within five tries
 
 ## Sample output
 This is a guessing game.
+
 I have chosen a number between 0 and 20 which you must guess.
 
 You have 5 tries left.
+
 Enter a guess: 12
+
 Sorry, 12 is wrong. My number is less than that
 
 ...
